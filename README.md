@@ -1,7 +1,7 @@
 # Yo, I'm Akshay 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ProjectBA14&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <h3 align="center">
@@ -208,15 +208,15 @@ Built multiple web applications including dashboards, portals, ERP systems, anal
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ProjectBA14&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ProjectBA14&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectBA14&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
